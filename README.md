@@ -4,4 +4,4 @@
 
   ![](https://komarev.com/ghpvc/?username=DYN4MIGHT&label=ninjago:&color=68364C&style=plastic)
   
-<img src="https://files.catbox.moe/9tqoyz.png" alt="crap" width="260" height="220">
+<img src="https://files.catbox.moe/9tqoyz.png" alt="crap" width="265" height="220">
